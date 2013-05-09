@@ -12,7 +12,7 @@
  * 
  */
 int main() {
-    printf("Primeiro projeto 08-05 mod");
+    printf("Primeiro projeto 08-05");
     return (EXIT_SUCCESS);
 }
 
